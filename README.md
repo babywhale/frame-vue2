@@ -1,6 +1,6 @@
-# shell-vue2
+# frame-vue2
 
-> 一个VUE2项目框架
+> 一个Vue2项目框架
 
 ## Build Setup
 
