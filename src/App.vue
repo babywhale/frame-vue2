@@ -6,8 +6,12 @@
 </template>
 
 <script>
+import flexible from './common/flexible'
 export default {
-  name: 'App'
+  name: 'App',
+  created() {
+    flexible();
+  }
 }
 </script>
 
